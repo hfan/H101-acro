@@ -44,9 +44,9 @@ THE SOFTWARE.
 // the expected orientation is with the gyro dot in the front-left corner
 // use this to rotate to the correct orientation 
 // rotations performed in order
-//#define SENSOR_ROTATE_45_CCW
+#define SENSOR_ROTATE_45_CCW
 //#define SENSOR_ROTATE_90_CW
-#define SENSOR_ROTATE_90_CCW
+//#define SENSOR_ROTATE_90_CCW
 //#define SENSOR_ROTATE_180
 //#define SENSOR_FLIP_180
 
